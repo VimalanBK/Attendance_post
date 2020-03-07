@@ -1,0 +1,30 @@
+*{
+  box-sizing: border-box;
+}
+.signup{
+    border: 1px solid ;
+    height: fit-content;
+    background-color: #474e5d;
+}
+.title{
+    background-color: goldenrod ;
+    text-align: center;
+    text-indent: 10px;
+}
+.row{
+    margin: 5% auto 15% auto;  /* 5% from the top, 15% from the bottom and centered */
+    border: 5px solid lightslategray;
+    width: 60%; /* Could be more or less, depending on screen size */
+  }
+   
+  .button:hover {
+    opacity:1;
+  }
+  .grp{
+      background-color: lightskyblue;
+      align-items: center;
+      text-align: center;
+  }
+  .group{
+    text-align: center;
+  }

@@ -1,0 +1,29 @@
+
+.container{
+    position: fixed; 
+    padding-top: 60px;
+    border-style: solid;
+  }
+  .val{
+      background-color: #474e5d;
+  }
+  .btn {
+    background-color:goldenrod;
+    color: white;
+    align-items: center;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+    opacity: 0.9;
+  }
+  .inp{
+    border: 5px solid ;
+    height: fit-content;
+    background-color: #474e5d;
+  }
+  .title{
+    background-color: goldenrod;
+    
+  }
