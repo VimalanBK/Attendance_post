@@ -1,0 +1,149 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "username": "",
+      "email": "",
+      "phonenumber": "",
+      "password": "",
+      "confirmpassword": ""
+    },
+    {
+      "form": {
+        "name": "Vimalan Baskar",
+        "email": "vimalan.cs17@bitsathy.ac.in",
+        "mobile": "08508912904",
+        "password": "vi",
+        "confirmPassword": "vi"
+      },
+      "id": 2
+    },
+    {
+      "form": {
+        "name": "Vimalan Baskar",
+        "email": "vimalan.cs17@bitsathy.ac.in",
+        "mobile": "08508912904",
+        "password": "vimalan",
+        "confirmPassword": "vimalan"
+      },
+      "id": 3
+    },
+    {
+      "form": {
+        "name": "Vimalan Baskar",
+        "email": "vimalan.cs17@bitsathy.ac.in",
+        "mobile": "08508912904",
+        "password": "vimalan",
+        "confirmPassword": "vimalan"
+      },
+      "id": 4
+    },
+    {
+      "form": {
+        "name": "Vimalan Baskar",
+        "email": "vimalan.cs17@bitsathy.ac.in",
+        "mobile": "08508912904",
+        "password": "vv",
+        "confirmPassword": "vv"
+      },
+      "id": 5
+    },
+    {
+      "form": {
+        "name": "Vimalan Baskar",
+        "email": "vimalan.cs17@bitsathy.ac.in",
+        "mobile": "08508912904",
+        "password": "vv",
+        "confirmPassword": "vv"
+      },
+      "id": 6
+    },
+    {
+      "form": {
+        "name": "Vimalan Baskar",
+        "email": "vimalan.cs17@bitsathy.ac.in",
+        "mobile": "08508912904",
+        "password": "vv",
+        "confirmPassword": "vv"
+      },
+      "id": 7
+    },
+    {
+      "form": {
+        "name": "Vimalan Baskar",
+        "email": "vimalan.cs17@bitsathy.ac.in",
+        "mobile": "08508912904",
+        "password": "vv",
+        "confirmPassword": "vv"
+      },
+      "id": 8
+    },
+    {
+      "form": {
+        "name": "Baskar",
+        "email": "vimalan.cs17@bitsathy.ac.in",
+        "mobile": "08508912904",
+        "password": "bit",
+        "confirmPassword": "bit"
+      },
+      "id": 9
+    },
+    {
+      "form": {
+        "name": "kavin",
+        "email": "kavin@gmail.com",
+        "mobile": "978645",
+        "password": "kavin",
+        "confirmPassword": "kavin"
+      },
+      "formErrors": {
+        "name": null,
+        "email": null,
+        "mobile": null,
+        "password": null,
+        "confirmPassword": null
+      },
+      "id": 10
+    },
+    {
+      "name": "as",
+      "email": "ash@gmail.conm",
+      "mobile": "8645",
+      "password": "gu",
+      "confirmPassword": "gu",
+      "id": 11
+    },
+    {
+      "name": "suriya",
+      "email": "suriya@gmail.com",
+      "mobile": "784523",
+      "password": "suriya",
+      "confirmPassword": "suriya",
+      "id": 12
+    },
+    {
+      "name": "aditiya",
+      "email": "aditiya@gmail.com",
+      "mobile": "55452",
+      "password": "aditiya",
+      "confirmPassword": "aditiya",
+      "id": 13
+    },
+    {
+      "name": "Vimalan Baskar",
+      "email": "vimalan.cs17@bitsathy.ac.in",
+      "mobile": "08508912904",
+      "password": "jj",
+      "confirmPassword": "jj",
+      "id": 14
+    },
+    {
+      "name": "arun",
+      "email": "arun@gmail.com",
+      "mobile": "1452",
+      "password": "arun",
+      "confirmPassword": "arun",
+      "id": 15
+    }
+  ]
+}
